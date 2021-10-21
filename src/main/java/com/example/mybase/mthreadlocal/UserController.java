@@ -1,7 +1,4 @@
-/*
- * Ant Group
- * Copyright (c) 2004-2021 All Rights Reserved.
- */
+
 package com.example.mybase.mthreadlocal;
 
 import org.springframework.web.bind.annotation.GetMapping;
